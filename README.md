@@ -310,21 +310,7 @@ The Streamlit dashboard brings the complete analysis together into an interactiv
 
 ### Main Dashboard
 
-![Dashboard Preview](screenshots/dashboard.png)
-
-### Product Profitability
-
-![Product Profitability](screenshots/product-profitability.png)
-
-### Trend Analysis
-
-![Trend Analysis](screenshots/trend-analysis.png)
-
-### Factory Performance
-
-![Factory Performance](screenshots/factory-performance.png)
-
-> Create a `screenshots` folder in the project and add the corresponding images using the filenames above.
+![Dashboard Preview]](https://ganesh-data-dashboard.streamlit.app/))
 
 ---
 
