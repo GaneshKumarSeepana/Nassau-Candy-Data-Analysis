@@ -310,7 +310,7 @@ The Streamlit dashboard brings the complete analysis together into an interactiv
 
 ### Main Dashboard
 
-![Dashboard Preview]](https://ganesh-data-dashboard.streamlit.app/))
+(https://ganesh-data-dashboard.streamlit.app/))
 
 ---
 
